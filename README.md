@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 [![committers.top badge](https://org-badge.committers.top/venezuela_private/ORGNAME.svg)](https://org-badge.committers.top/venezuela_private/ORGNAME)
-[![committers.top badge](https://user-badge.committers.top/venezuela_private/AndresArl16.svg)](https://user-badge.committers.top/venezuela_private/Andresarl16)
+[![committers.top badge](https://user-badge.committers.top/venezuela_private/Andresarl16.svg)](https://user-badge.committers.top/venezuela_private/Andresarl16)
+[![committers.top badge](https://user-badge.committers.top/venezuela_private/andresarl16.svg)](https://user-badge.committers.top/venezuela_private/andresarl16)
 
 
 <!--

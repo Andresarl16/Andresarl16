@@ -11,14 +11,15 @@ I build scalable product platforms and ship end-to-end features: from UX-driven 
   Repo: https://github.com/Andresarl16/Frontend-Skills-Test  
   Demo: https://frontend-skills-test.vercel.app
 
+- **Frontend Template** — opinionated starter with best practices  
+  _Next.js + Tailwind starter (SEO, content, DX)_  
+  Repo: https://github.com/Andresarl16/frontend-template
+
 ## Coming soon
 A curated set of public projects to better represent my current work and standards:
 
 - **Portfolio + Case Studies** — documented projects, architecture notes, and writeups  
   _Next.js + Tailwind, deployed_
-
-- **Frontend Template** — opinionated starter with best practices  
-  _Next.js + Tailwind starter (SEO, content, DX)_
 
 - **Production Fullstack Template (Monorepo)** — opinionated starter with best practices  
   _Next.js + API + shared packages + CI/CD_
